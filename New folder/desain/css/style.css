@@ -1,0 +1,62 @@
+* {
+	font-family: sans-serif;
+}
+
+#site_container {
+	width: 1024px;
+	min-height: 650px;
+	border: 1px solid #000;
+	margin: auto;
+}
+
+#atas {
+	width: 100%;
+	height: 150px;
+	border: 1px solid #000;
+	background: #0cf;
+}
+
+#atas h1 {
+	color: #fff;
+	text-align: center;
+	text-shadow: 3px 3px #000;
+}
+
+#kiri {
+	width: 198px;
+	min-height: 350px;
+	border: 1px solid #000;
+	float: left;
+}
+
+.judul_1 {
+	display: block;
+	height: 40px;
+	font: 20pt;
+	text-align: center;
+}
+
+#kiri ul {
+	list-style: none;
+}
+
+#kiri ul li a {
+	display: block;
+	height: 30px;
+	font: 16pt;
+	text-decoration: none;
+	padding-left: 20px;
+}
+
+#kanan {
+	width: 822px;
+	min-height: 350px;
+	border: 1px solid #000;
+	float: right;
+}
+
+#bawah {
+	width: 100%;
+	height: 150px;
+	border: 1px solid #000;
+}

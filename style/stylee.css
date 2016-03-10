@@ -1,0 +1,71 @@
+*	{
+	padding: 0px;
+	margin: 0px;
+}
+
+#site-container {
+	width: 1260px;
+	min-height: 900px;
+		margin: 20px auto;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+#header {
+	width: 1250px;
+	height: 50px;
+	margin: 0px auto;
+	border: 1px solid #000;
+}
+
+#menu-content {
+	width: 1250px;
+	height: auto;
+	margin: 5 auto;
+}
+
+#menu {
+	float: left;
+	width: 200px;
+	min-height: 450px;
+	border: 1px solid #000;
+}
+
+#content {
+	float: right;
+	width: 1040px;
+	min-height: 450px;
+	border: 1px solid #000;
+}
+
+#footer {
+	width: 1250px;
+	height: 70px;
+	margin: 5px auto;
+	border: 1px solid #000;
+}
+
+.floating {
+	clear:both;
+	height:0px;
+	line-height:0px;
+}
+
+.judul_1 {
+	display: block;
+	height: 40px;
+	font: 20pt;
+	text-align: center;
+}
+
+#menu ul {
+	list-style: none;
+}
+
+#menu ul li a {
+	display: block;
+	height: 30px;
+	font: 16pt;
+	text-decoration: none;
+	padding-left: 20px;
+}
